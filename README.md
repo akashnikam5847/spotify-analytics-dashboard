@@ -54,4 +54,4 @@ spotify-powerbi/
 Install Power BI Desktop (Windows), open `Spotify_Top50_Analytics.pbix`. If it asks for the data source, Transform data > Data source settings and point it to `data/spotify-top-50-world.csv`.
 
 ## Author
-Rushikesh Tarmale | Operations Executive moving into Data Analytics | Pune, India
+Akash Nikam | Data Analytics | Pune, India
